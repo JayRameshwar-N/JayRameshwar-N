@@ -1,77 +1,77 @@
-<h1 align="center">Hi 👋, I'm Rameshwar Navthar</h1>
-<h3 align="center">A Passionate Backend Developer | Problem Solver | Technology Enthusiast</h3>
-
----
-
-### 👨‍💻 About Me
-- 💼 I’m currently working as a **Backend Developer**.
-- 🌱 I’m currently enhancing my skills in **TypeScript**, **System Design**, and **Cloud Technologies**.
-- 💬 Ask me about **Node.js, Express.js, MongoDB, Redis, and API Development**.
-- 💞️ I’m open to collaborating on **Backend Projects, APIs, and Open Source Contributions**.
-- 📫 Reach me at: **rameshwarnavthar007@gmail.com**
-
----
-
-### 🛠️ Tech Stack & Tools
-
-#### 💻 Programming Languages
-<p>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-#### 🚀 Backend & Databases
-<p>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
-#### 🌐 Frontend
-<p>
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
-
-#### 🔗 Version Control & Collaboration
-<p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-</p>
-
-#### 🛠️ Tools & Platforms
-<p>
-    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
+<!-- Banner Section -->
+<h1 align="center"> Rameshwar Navthar</h1>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=JayRameshwar-N&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-    <br />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=JayRameshwar-N&theme=tokyonight" alt="Streak Stats" />
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayRameshwar-N&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=29F7FF&center=true&vCenter=true&repeat=true&width=500&lines=Backend+Developer+%7C+API+Expert+%7C+Problem+Solver;Node.js+%7C+Express.js+%7C+MongoDB+%7C+Redis+%7C+Cloud+Technologies;Learning%2C+Building%2C+Innovating+Every+Day+%F0%9F%9A%80" alt="Typing SVG">
 </p>
+
+---
+
+### 🧑‍💻 Who Am I?
+I am **Rameshwar Navthar**, a Backend Developer passionate about solving real-world problems using technology. With a solid foundation in **JavaScript**, **Node.js**, and **databases**, I craft highly efficient backend systems and robust APIs.  
+My focus? Writing clean, scalable code and continuously learning **new technologies** to stay ahead of the curve.
+
+---
+
+### 🔗 Technologies & Tools
+
+| Domain | Skills |
+|---|---|
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **Frontend** | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) |
+| **Tools** | ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+
+---
+
+### 📊 GitHub Analytics
+<div align="center">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=JayRameshwar-N&show_icons=true&theme=radical&count_private=true" />
+    <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=JayRameshwar-N&theme=radical" />
+</div>
+
+---
+
+### 🌟 My Developer Statement
+> *"Coding is not just about solving problems, it's about understanding the problem so deeply that the solution becomes obvious."*  
+> I believe in building **real-world usable systems** — systems that make lives easier, processes faster, and technology smarter.  
+
+---
+
+### 🗂️ Featured Projects
+| Project | Description |
+|---|---|
+| 📚 **Book Management System** | Complete backend for storing books, searching, purchasing, billing & tracking inventory. |
+| ✍️ **Blogging Platform** | RESTful blog system to create, publish, and manage blogs with full CRUD. |
+| 🔗 **Internship Finder** | Platform for students to search internships college-wise. |
+| 🛠️ **Password Generator** | Secure password generator with advanced options in React.js. |
 
 ---
 
 ### 🌐 Connect With Me
 <p>
-    <a href="https://www.linkedin.com/in/rameshwar-navthar-4a5a3b202/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:rameshwarnavthar007@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
+    <a href="linkedin.com/in/rameshwarnavathar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+    <a href="mailto:rameshwarsahebrao72@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-⭐️ *Inspired by developers across the globe. Let’s build something amazing together!*
+### 📢 Fun Fact
+**I once debugged a 1000-line code file by talking to my rubber duck for 3 hours. It worked. 🦆✨**
 
+---
+
+### 🏆 Top Languages
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayRameshwar-N&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🔥 Motto
+**"Learn. Build. Break. Fix. Repeat."**
+
+---
+
+⭐️ *Always excited to connect with like-minded developers and innovators! Let's code the future together.*  
