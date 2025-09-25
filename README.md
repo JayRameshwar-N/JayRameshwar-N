@@ -1,7 +1,7 @@
 <!-- Banner Section -->
 <h1 align="center"> Rameshwar Navthar</h1>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=B22222&center=true&vCenter=true&repeat=true&width=900&lines=Backend+Developer+%7C+API+%26+Cloud+Expert+%7C+Problem+Solver;Node.js+%7C+Express.js+%7C+MongoDB+%7C+Redis;JavaScript+%7C+TypeScript+%7C+Git;AWS+S3+%7C+Basic+HTML+%26+CSS;Learning%2C+Building%2C+Innovating+Every+Day+%F0%9F%9A%80">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FF4C4C&center=true&vCenter=true&repeat=true&width=900&lines=Backend+Developer+%7C+API+%26+Cloud+Expert+%7C+Problem+Solver;Node.js+%7C+Express.js+%7C+MongoDB+%7C+Redis;JavaScript+%7C+TypeScript+%7C+Git;AWS+S3+%7C+Basic+HTML+%26+CSS;Learning%2C+Building%2C+Innovating+Every+Day+%F0%9F%9A%80">
 </p>
 
 ---
