@@ -1,7 +1,7 @@
 <!-- Banner Section -->
 <h1 align="center"> Rameshwar Navthar</h1>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=900&color=29F7FF&center=true&vCenter=true&repeat=true&width=700&lines=Backend+Dev+%7C+API+Expert+%7C+Problem+Solver;Node.js+%7C+Express.js+%7C+MongoDB+%7C+Redis+%7C+Cloud+Technologies;Learning%2C+Building%2C+Innovating+Every+Day+%F0%9F%9A%80">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=009879&center=true&vCenter=true&repeat=true&width=950&lines=Skilled+Backend+Developer+%7C+API+Expert+%7C+Problem+Solver;Node.js+%7C+Express.js+%7C+MongoDB+%7C+Redis;JavaScript+%7C+TypeScript+%7C+Git;AWS+S3+%7C+Basic+HTML+%26+CSS;Learning%2C+Building%2C+Innovating+Every+Day+%F0%9F%9A%80">
 </p>
 
 ---
@@ -21,7 +21,13 @@ My focus? Writing clean, scalable code and continuously learning **new technolog
 | **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
 | **Frontend** | ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
 | **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) |
-| **Tools** | ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| **Tools** | ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) 
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
+![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-47A248?style=flat-square&logo=mongodb&logoColor=white) 
+![Robo 3T](https://img.shields.io/badge/Robo_3T-4DB33D?style=flat-square&logo=mongodb&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS_S3-232F3E?style=flat-square&logo=amazonaws&logoColor=white) |
 
 ---
 
@@ -53,6 +59,9 @@ My focus? Writing clean, scalable code and continuously learning **new technolog
 <p>
     <a href="linkedin.com/in/rameshwarnavathar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
     <a href="mailto:rameshwarsahebrao72@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+    <a href="https://wa.me/919370411775" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
 </p>
 
 ---
